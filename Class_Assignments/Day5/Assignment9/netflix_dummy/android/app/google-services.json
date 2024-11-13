@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077515353424",
+    "project_id": "flutter-signin-98f2f",
+    "storage_bucket": "flutter-signin-98f2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077515353424:android:434bebe93e79e40f78c055",
+        "android_client_info": {
+          "package_name": "com.example.netflix_dummy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq3lsNSYTbaOyFtMtfhfCmJn6XZ4CzjbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

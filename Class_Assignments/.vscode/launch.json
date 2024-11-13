@@ -1,0 +1,128 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "assign1",
+            "cwd": "Day2\\assign1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "assign1 (profile mode)",
+            "cwd": "Day2\\assign1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "assign1 (release mode)",
+            "cwd": "Day2\\assign1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "assign2",
+            "cwd": "Day2\\assign2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "assign2 (profile mode)",
+            "cwd": "Day2\\assign2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "assign2 (release mode)",
+            "cwd": "Day2\\assign2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "assign3",
+            "cwd": "Day2\\assign3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "assign3 (profile mode)",
+            "cwd": "Day2\\assign3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "assign3 (release mode)",
+            "cwd": "Day2\\assign3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "assignment1",
+            "cwd": "Day1\\Assignment1\\assignment1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "assignment1 (profile mode)",
+            "cwd": "Day1\\Assignment1\\assignment1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "assignment1 (release mode)",
+            "cwd": "Day1\\Assignment1\\assignment1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "assignment2",
+            "cwd": "Day1\\Assignment2\\assignment2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "assignment2 (profile mode)",
+            "cwd": "Day1\\Assignment2\\assignment2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "assignment2 (release mode)",
+            "cwd": "Day1\\Assignment2\\assignment2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "assignment3",
+            "cwd": "Day1\\Assignment3\\assignment3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "assignment3 (profile mode)",
+            "cwd": "Day1\\Assignment3\\assignment3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "assignment3 (release mode)",
+            "cwd": "Day1\\Assignment3\\assignment3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
