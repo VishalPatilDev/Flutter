@@ -26,7 +26,7 @@ class _LoginPAgeState extends State<LoginPAge> {
                         borderRadius: BorderRadius.circular(12)))),
           ElevatedButton(onPressed: (){
             
-          }, child: child)
+          }, child: Text("h")),
                       
           ],
         ),
