@@ -74,7 +74,7 @@ Future<void> updateOrderData(Zomato obj) async {
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   database = openDatabase(
-    join(await getDatabasesPath(), "BlinkDB.db"),
+    join(await getDatabasesPath(), "Zomato.db"),
     version: 1,
     onCreate: (db, version) async {
       await db.execute('''
@@ -101,6 +101,7 @@ bill REAL
       hotelName: "SP Biryani",
       food: "Biryani,Rassa",
       bill: 830.00);
+  insertOrderData(order1);
   insertOrderData(order2);
   print(await getOrderData());
 }
